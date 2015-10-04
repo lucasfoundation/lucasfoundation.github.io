@@ -29,3 +29,4 @@ footer: Lucas Foundation® 1975
 # Build settings
 markdown: kramdown
 permalink: pretty
+relative_permalinks: true
