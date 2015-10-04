@@ -3,7 +3,7 @@ title: Lucas Foundation
 email: your-email@domain.com
 url: lucasfoundation.org
 description: "Lucas Foundation"
-#baseurl: /lucasfoundation.github.io
+baseurl: /
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
