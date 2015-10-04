@@ -1,8 +1,8 @@
 # Site settings
-title: Lucas Foundation 
+title: Lucas Foundation
 email: your-email@domain.com
 url: https://www.lucasfoundation.org
-description: "Lucas Cappelli Foundation"
+description: "Lucas Foundation"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -23,7 +23,7 @@ footer: Your Website
   #- title: bitbucket
   #  url: http://bitbucket.org/jekyll
   #- title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  #  url: https://github.com/IronSummitMedia/startbootstrap
 
 # Build settings
 markdown: kramdown
