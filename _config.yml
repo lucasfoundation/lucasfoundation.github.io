@@ -3,7 +3,7 @@ title: Lucas Foundation
 email: your-email@domain.com
 url: lucasfoundation.org
 description: "Lucas Foundation"
-baseurl: /
+#baseurl: /
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -11,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Lucas Foundation® 1975
+footer: Lucas Foundation® 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
@@ -29,4 +29,4 @@ footer: Lucas Foundation® 1975
 # Build settings
 markdown: kramdown
 permalink: pretty
-relative_permalinks: true
+#relative_permalinks: true
